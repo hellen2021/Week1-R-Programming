@@ -13,3 +13,7 @@ Perform  univariate and bivariate analysis.
 From your insights provide a conclusion and recommendation.
 
 Dataset Link: http://bit.ly/IPAdvertisingData
+
+
+
+IP LINK http://rpubs.com/Hellen24/908778
